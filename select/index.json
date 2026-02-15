@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "学祭革命夜明け前",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-02-15T03:43:04.034749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "学祭革命夜明け前",
+      "artist": "放課後クライマックスガールズ[小宮果穂(CV.河野ひより)、園田智代子(CV.白石晴香)、西城樹里(CV.永井真里子)、杜野凛世(CV.丸岡和佳奈)、有栖川夏葉(CV.涼本あきほ)]",
+      "has_synced": false,
+      "path": "select/01_学祭革命夜明け前_放課後クライマックスガールズ[小宮果穂(CV.河野ひより)、園田智代子(CV.白石晴香)、西城樹里(CV.永井真里子)、杜野凛世(CV.丸岡和佳奈)、有栖川夏葉.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "学祭革命夜明け前",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/02_学祭革命夜明け前_放課後クライマックスガールズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "学祭革命夜明け前",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": false,
+      "path": "select/03_学祭革命夜明け前_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "学祭革命夜明け前",
+      "artist": "Houkago Climax Girls",
+      "has_synced": false,
+      "path": "select/04_学祭革命夜明け前_Houkago_Climax_Girls.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学祭革命夜明け前",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_学祭革命夜明け前_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
